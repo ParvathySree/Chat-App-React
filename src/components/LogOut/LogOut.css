@@ -1,0 +1,16 @@
+.logout{
+    background-color: inherit;
+    border: none;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+    cursor: pointer;
+    
+}
+
+.material-symbols-outlined{
+    font-weight: 900;
+    vertical-align: middle;
+    font-size: 17px;
+    padding-left: 2px;
+
+}

@@ -1,0 +1,9 @@
+.chat{
+   position: relative;
+    display: flex;
+    flex-flow: column;
+    background-color: aliceblue;
+    height: 100%;
+    margin-bottom: 100px;
+   
+}
